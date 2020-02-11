@@ -1,0 +1,13 @@
+{
+  "name": "vuemotioncopyapi",
+  "version": "1.0.0",
+  "description": "Vue motion clone communication API used by laboratories.",
+  "main": "app.js",
+  "repository": "https://github.com/gocsilva/VueMotionCopy.git",
+  "author": "Guilherme Silva",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
